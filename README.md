@@ -1,7 +1,7 @@
+# DevOps Foundations for Beginners
+
 # devops-roadmap
 To understand the basics and get up to speed with DevOps practices
-
-# DevOps Foundations for Beginners
 
 Welcome to **DevOps Foundations for Beginners**! This repository is your guide to learning DevOps from the ground up. Whether you’re a recent graduate, a developer, or just looking to understand how DevOps works, this guide will help you build the knowledge you need to succeed.
 
